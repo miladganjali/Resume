@@ -118,3 +118,8 @@ ul.contact_sidebar li span {
 .works ul li > ul li {
   font-size: 0.8rem;
 }
+
+.source {
+  font-size: 1rem;
+  text-align: justify;
+}
